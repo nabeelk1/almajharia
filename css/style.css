@@ -525,6 +525,8 @@ div#preloader {
   color: #3EC1D5;
 }
 
+
+
 .row.second-row {
   margin-top: 40px;
 }
@@ -542,6 +544,10 @@ div#preloader {
 .single-services>p {
   color: #333;
   font-size: 14px;
+}
+
+.product {
+  background-color: #f9f9f9;
 }
 
 /*----------------------------------------
